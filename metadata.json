@@ -1,0 +1,7 @@
+{
+  "name": "RevReception - AI Revenue Receptionist & Growth Automation",
+  "description": "Production-ready AI front desk and revenue automation platform that answers phone calls, WhatsApp messages, recovers missed leads, qualifies prospects, books appointments, and drives measurable revenue.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
